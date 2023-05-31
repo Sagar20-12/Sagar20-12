@@ -1,6 +1,7 @@
 ### Hi there, I'm Sagar 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar20-12&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar20-12)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on some great project that yet to be committed.
