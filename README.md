@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# 💫 Hi! 👋 I' m Sagar!!!
 🔭 I’m currently working on Cool projects.<br>🌱 I’m currently learning.<br>💬 Ask me about Data Structure and Algorithms.
 
 
