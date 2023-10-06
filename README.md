@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar20-12&show_icons=true&locale=en" alt="sagar20-12" /></p>
 
-[![An image of @sagar2012's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagar2012)](https://holopin.io/@sagar2012)
+[![An image of @sagar2012's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagar2012)](https://holopin.io/@sagar2012) 
