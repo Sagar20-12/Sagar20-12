@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img src="12.png" width="1000">
+    <img src="Poster.png" width="1000">
 </p>
 <h1 align="center">Hi 👋, I'm Sagar!</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
