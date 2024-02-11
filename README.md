@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Data Structures and Algorithms.**
 
+### My Coding Profiles
+[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://https://codeforces.com/profile/SAGAR_2012)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://https://leetcode.com/Binary_Blaze/)
+[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://https://auth.geeksforgeeks.org/user/sagarrag0o68)
+
 ## Connect with me  
 <div align="center">
 <a href="https://instagram.com/sagar__raghav" target="_blank">
