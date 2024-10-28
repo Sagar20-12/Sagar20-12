@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **cool projects.**
 
-- 🌱 I’m currently learning **new productivity things everyday.**
+- 🌱 I’m currently learning **DSA & ignoring Dev**
 
 - 💬 Ask me about **Data Structures and Algorithms.**
+
+- 📫 How to reach me **sagar.singh.raghavv@gmail.com**
 
 ### My Coding Profiles
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://https://codeforces.com/profile/SAGAR_2012)
