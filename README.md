@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar20-12&label=Profile%20views&color=0e75b6&style=flat" alt="sagar20-12" /> </p> 
 <p align="left"> <a href="https://twitter.com/cricdictor" target="blank"><img src="https://img.shields.io/twitter/follow/cricdictor?logo=twitter&style=for-the-badge" alt="cricdictor" /></a> </p>
+<p align="left"> <a href="https://www.codechef.com/users/binary_blaze" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="binary_blaze" height="30" width="40" /></a> </p>
 
 - 🔭 I’m currently working on **cool projects.**
 
