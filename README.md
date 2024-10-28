@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar20-12&label=Profile%20views&color=0e75b6&style=flat" alt="sagar20-12" /> </p> 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar20-12" alt="sagar20-12" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/cricdictor" target="blank"><img src="https://img.shields.io/twitter/follow/cricdictor?logo=twitter&style=for-the-badge" alt="cricdictor" /></a> </p>
 
 - 🔭 I’m currently working on **cool projects.**
