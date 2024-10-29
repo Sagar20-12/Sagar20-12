@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **cool projects.**
 
-- 🌱 I’m currently learning **DSA & ignoring Dev**
+- 🌱 I’m currently learning **DSA over Dev**
 
 - 💬 Ask me about **Data Structures and Algorithms.**
 
