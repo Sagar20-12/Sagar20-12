@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me **sagar.singh.raghavv@gmail.com**
 
 ### My Coding Profiles
-[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://https://codeforces.com/profile/SAGAR_2012)
-[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://https://leetcode.com/Binary_Blaze/)
-[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://https://auth.geeksforgeeks.org/user/sagarrag0o68)
+[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/SAGAR_2012)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/Binary_Blaze/)
+[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://auth.geeksforgeeks.org/user/sagarrag0o68)
 <p align="left">
 <a href="https://www.codechef.com/users/binary_blaze" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="binary_blaze" height="30" width="40" /></a>
 </p>
