@@ -68,3 +68,4 @@ Here are some ideas to get you started:
 [![An image of @sagar2012's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sagar2012)](https://holopin.io/@sagar2012) 
 <br clear="both">
 
+![snake gif](https://github.com/user-attachments/assets/4f2757b1-fcba-4472-a5fb-9a0ccd33d45c)
